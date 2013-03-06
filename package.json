@@ -1,0 +1,15 @@
+{
+  "name": "brix",
+  "description": "dMVC - Server Base",
+  "version": "0.0.0",
+  "author": "nomilous <nomilous@gmail.com>",
+  "contributors": [
+    {
+      "name": "nomilous",
+      "email": "nomilous@gmail.com"
+    }
+  ],
+  "repository": "git@github.com:nomilous/brix.git",
+  "dependencies": {},
+  "devDependencies": {}
+}
