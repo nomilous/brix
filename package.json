@@ -9,6 +9,7 @@
       "email": "nomilous@gmail.com"
     }
   ],
+  "main": "./lib/brix.js",
   "repository": "git@github.com:nomilous/brix.git",
   "dependencies": {},
   "devDependencies": {}
