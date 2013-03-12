@@ -1,6 +1,6 @@
 {
   "name": "brix",
-  "description": "dMVC - Server Base",
+  "description": "Server Base",
   "version": "0.0.0",
   "author": "nomilous <nomilous@gmail.com>",
   "contributors": [
@@ -11,6 +11,10 @@
   ],
   "main": "./lib/brix.js",
   "repository": "git@github.com:nomilous/brix.git",
-  "dependencies": {},
-  "devDependencies": {}
+  "dependencies": {
+    "plex": "0.0.4"
+  },
+  "devDependencies": {
+    "nez": "0.0.2"
+  }
 }

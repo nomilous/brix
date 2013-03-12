@@ -13,7 +13,7 @@ class Server
             connect:
 
                 adaptor: 'socket.io'
-                uri: "http://#{@config.uplink.host}:#{@config.uplink.port}"
+                uri: "https://#{@config.uplink.host}:#{@config.uplink.port}"
 
 
 module.exports = Server

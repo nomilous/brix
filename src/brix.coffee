@@ -8,4 +8,8 @@ module.exports = brix =
 
     edge: (placeholder, nodes) -> 
 
+    hup: -> 
+
+    handles: []
+    matches: []
 
