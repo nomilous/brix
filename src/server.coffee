@@ -10,6 +10,8 @@ class Server
 
             mode: 'leaf'
 
+            secret: @config.secret
+
             connect:
 
                 adaptor: 'socket.io'
