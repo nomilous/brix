@@ -4,7 +4,7 @@ Elix = require('nez').objective 'Brix',
 
     nimbal: 'https://localhost:10101/'
 
-    class: 'Application Service Node'
+    class: 'System Service Node'
 
     category: 'Distributed Systems'
 
