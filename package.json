@@ -12,7 +12,8 @@
   "main": "./lib/brix.js",
   "repository": "git@github.com:nomilous/brix.git",
   "dependencies": {
-    "plex": "0.0.6"
+    "plex": "0.0.6",
+    "trix": "0.0.1"
   },
   "devDependencies": {
     "nez": "0.0.2",

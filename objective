@@ -11,11 +11,13 @@ Elix = require('nez').objective 'Brix',
     description: """
 
 
+        A base deployable server/service stub.
 
-        A component of a larger system.
-
+        Pending the config assigned behaviours that 
+        dynamically elevate it to become any one of 
+        the necessary components of the distributed
+        system it serves.
 
 
 
     """, (requirements) ->
-
